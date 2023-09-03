@@ -764,13 +764,6 @@
     <!-- QS date -->
     <string name="qs_date_title">തിയതി</string>
     <string name="qs_date_summary">ദ്രുത സ്റ്റാറ്റസ് ബാർ തലക്കെട്ടിൽ തീയതി പ്രദർശിപ്പിക്കുക</string>
-    <!-- AOD Icons on Lockscreen! -->
-    <string name="alt_layout_category">Alternative layout</string>
-    <string name="ambient_icons_lockscreen_title">AOD icons on lockscreen</string>
-    <string name="ambient_icons_lockscreen_summary">Replace notifications with AOD icons</string>
-    <string name="ambient_icons_size_title">AOD icons size</string>
-    <string name="ambient_icons_color_title">AOD icons color</string>
-    <string name="ambient_icons_intro_text">Requires a SystemUI restart</string>
     <!-- QS Data Usage -->
     <string name="qs_data_usage_panel_title">ഡാറ്റ ഉപയോഗം കാണിക്കുക</string>
     <string name="qs_data_usage_panel_summary">വിപുലീകരിച്ച qs പാനലിൽ ഡാറ്റ ഉപയോഗ വിശദാംശങ്ങളുള്ള ഒരു ഡയലോഗ് പ്രദർശിപ്പിക്കുക</string>

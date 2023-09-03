@@ -764,13 +764,6 @@
     <!-- QS date -->
     <string name="qs_date_title">Tarih</string>
     <string name="qs_date_summary">Tarihi hızlı durum çubuğu başlığında görüntüle</string>
-    <!-- AOD Icons on Lockscreen! -->
-    <string name="alt_layout_category">Alternatif düzen</string>
-    <string name="ambient_icons_lockscreen_title">Kilit ekranında AOD simgesi</string>
-    <string name="ambient_icons_lockscreen_summary">Bildirimleri AOD simgeleriyle değiştirin</string>
-    <string name="ambient_icons_size_title">AOD simge boyutu</string>
-    <string name="ambient_icons_color_title">AOD simge rengi</string>
-    <string name="ambient_icons_intro_text">Requires a SystemUI restart</string>
     <!-- QS Data Usage -->
     <string name="qs_data_usage_panel_title">Veri kullanımını göster</string>
     <string name="qs_data_usage_panel_summary">Genişletilmiş hızlı ayarlar panelinde veri kullanım ayrıntılarını içeren bir iletişim kutusu görüntüleyin</string>
