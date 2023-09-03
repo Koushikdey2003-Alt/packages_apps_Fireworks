@@ -592,17 +592,6 @@
     <string name="display_cutout_force_fullscreen_title">تطبيقات تملأ الشاشة</string>
     <string name="display_cutout_force_fullscreen_summary">إجبار التطبيقات على تجاهل مساحة النوتش</string>
     <string name="display_cutout_force_fullscreen_no_apps">No apps</string>
-    <!-- Smart Pixels -->
-    <string name="smart_pixels_warning_text">وحدات البكسل الذكية هي ميزة توفير الطاقة. اعتماداً على عدد وحدات البكسل التي تقرر إيقاف تشغيلها، يمكنك أن ترى تحسناً في عمر البطارية. لاحظ أنه في بعض الحالات يمكن أن يؤدي إلى مناطق غير مستجيبة على شاشة اللمس</string>
-    <string name="smart_pixels_title">البكسلات الذكية</string>
-    <string name="smart_pixels_summary">توفير الطاقة بإيقاف الدقة العالية</string>
-    <string name="smart_pixels_enable_title">تمكين البكسلات الذكية</string>
-    <string name="smart_pixels_enable_summary">إيقاف وحدات البكسل لتقليل استهلاك الطاقة</string>
-    <string name="smart_pixels_on_power_save_title">تشغيل تلقائي لتوفير الطاقة</string>
-    <string name="smart_pixels_on_power_save_summary">تمكين الدقة الذكية في وضع توفير الطاقة</string>
-    <string name="smart_pixels_percent">نسبة الدقة لإيقافها</string>
-    <string name="smart_pixels_shift_title">حماية الاحتراق</string>
-    <string name="smart_pixels_shift_summary">تمنع الحماية من الإحتراق Burn-in على أجهزة OLED عن طريق تحويل وحدات البكسل بين الحين و الآخر</string>
     <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">زر قتل التطبيق</string>
     <string name="notification_guts_kill_app_button_summary">أظهار زر قتل التطبيق في قائمة الضغط المطول على التنبيهات</string>

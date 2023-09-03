@@ -588,17 +588,6 @@
     <string name="display_cutout_force_fullscreen_title">Tam ekran uygulamaları</string>
     <string name="display_cutout_force_fullscreen_summary">Uygulamaları çentik boşluğunu yoksaymaya zorla</string>
     <string name="display_cutout_force_fullscreen_no_apps">Uygulamalar yok</string>
-    <!-- Smart Pixels -->
-    <string name="smart_pixels_warning_text">Akıllı pikseller bir güç tasarrufu özelliğidir. Kaç pikseli kapatmaya karar verdiğinize bağlı olarak pil ömründe iyileşme görebilirsiniz. Bazı durumlarda dokunmatik ekranda yanıt vermeyen alanlara neden olabileceğini unutmayın</string>
-    <string name="smart_pixels_title">Akıllı Pikseller</string>
-    <string name="smart_pixels_summary">Fazladan pikselleri kapatarak pil tasarrufu sağlayın</string>
-    <string name="smart_pixels_enable_title">Akıllı Pikselleri Etkinleştir</string>
-    <string name="smart_pixels_enable_summary">Güç tüketimini azaltmak için bazı pikselleri kapatın</string>
-    <string name="smart_pixels_on_power_save_title">Pil tasarrufu için otomatik etkinleştir</string>
-    <string name="smart_pixels_on_power_save_summary">Pil tasarrufu etkinleştirildiğinde Akıllı Pikselleri etkinleştirin</string>
-    <string name="smart_pixels_percent">Devre dışı bırakılacak piksel yüzdesi</string>
-    <string name="smart_pixels_shift_title">Yanma koruması</string>
-    <string name="smart_pixels_shift_summary">Amoled cihazlarda yanmaları önler ve sık sık pikselleri kaydırır</string>
     <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">Uygulama sonlandırma tuşu</string>
     <string name="notification_guts_kill_app_button_summary">Bildirimlere uzun basma menüsünde uygulama sonlandırma tuşunu göster</string>

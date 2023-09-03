@@ -588,17 +588,6 @@
     <string name="display_cutout_force_fullscreen_title">Full screen apps</string>
     <string name="display_cutout_force_fullscreen_summary">Force apps to ignore notch space</string>
     <string name="display_cutout_force_fullscreen_no_apps">No apps</string>
-    <!-- Smart Pixels -->
-    <string name="smart_pixels_warning_text">സ്മാർട്ട് പിക്സലുകൾ ഒരു പവർ സേവിംഗ് ഫീച്ചറാണ്. എത്ര പിക്സലുകൾ ഓഫാക്കാൻ നിങ്ങൾ തീരുമാനിക്കുന്നു എന്നതിനെ ആശ്രയിച്ച്, ബാറ്ററി ലൈഫിൽ നിങ്ങൾക്ക് പുരോഗതി കാണാനാകും. ചില സന്ദർഭങ്ങളിൽ ഇത് ടച്ച് സ്ക്രീൻ പ്രതികരിക്കാത്ത മേഖലകളിലേക്ക് നയിച്ചേക്കാം എന്നത് ശ്രദ്ധിക്കുക</string>
-    <string name="smart_pixels_title">സ്മാർട് പിക്സൽസ്</string>
-    <string name="smart_pixels_summary">അധിക പിക്സലുകൾ അടച്ച് ബാറ്ററി ലാഭിക്കുക</string>
-    <string name="smart_pixels_enable_title"> സ്മാർട് പിക്സൽസ് പ്രവർത്തനക്ഷമമാക്കുക </string>
-    <string name="smart_pixels_enable_summary">ചില പിക്സലുകൾ ഓഫ് ചെയ്തുകൊണ്ട് ഊർജ ഉപഭോഗം കുറയ്ക്കുക</string>
-    <string name="smart_pixels_on_power_save_title">Auto-enable ഓൺ ബാറ്ററി സേവർ </string>
-    <string name="smart_pixels_on_power_save_summary">ബാറ്ററി സേവർ പ്രവർത്തനക്ഷമമാക്കുമ്പോൾ സ്മാർട്ട് പിക്സലുകൾ പ്രവർത്തനക്ഷമമാക്കുക</string>
-    <string name="smart_pixels_percent">പ്രവർത്തനരഹിതമാക്കാനുള്ള പിക്സലുകളുടെ ശതമാനം</string>
-    <string name="smart_pixels_shift_title">ബേൺ-ഇൻ സംരക്ഷണം</string>
-    <string name="smart_pixels_shift_summary">പിക്സലുകൾ ഇടയ്ക്കിടെ മാറ്റി OLED ഉപകരണങ്ങളിൽ ബേൺ-ഇൻ ചെയ്യുന്നത് തടയുന്നു</string>
     <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">കില്ല് അപ്ലിക്കേഷൻ ബട്ടൺ</string>
     <string name="notification_guts_kill_app_button_summary">കില്ല് അപ്ലിക്കേഷൻ ബട്ടൺ അറിയിപ്പ് ലോംഗ് പ്രസ്സ് മെനുവിൽ കാണിക്കുക</string>

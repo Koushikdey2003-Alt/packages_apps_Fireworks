@@ -588,18 +588,6 @@
     <string name="display_cutout_force_fullscreen_title">Apps em ecrã inteiro</string>
     <string name="display_cutout_force_fullscreen_summary">Forçar apps a ignorar o espaço do entalhe</string>
     <string name="display_cutout_force_fullscreen_no_apps">Sem aplicações</string>
-    <!-- Smart Pixels -->
-    <string name="smart_pixels_warning_text">Píxeis inteligentes é um recurso de economia de energia. Dependendo de quantos píxeis decidir desativar, poderá ver melhorias na duração da bateria. Note que em alguns casos isso pode resultar em áreas sem resposta ao toque no ecrã</string>
-    <string name="smart_pixels_title">Píxeis Inteligentes</string>
-    <string name="smart_pixels_summary">Poupar bateria ao desligar alguns píxeis</string>
-    <string name="smart_pixels_enable_title">Ativar Píxeis Inteligentes</string>
-    <string name="smart_pixels_enable_summary">Desligar alguns píxeis para reduzir o consumo de energia</string>
-    <string name="smart_pixels_on_power_save_title">Ativar automaticamente em poupança de bateria</string>
-    <string name="smart_pixels_on_power_save_summary">Ativar os Píxeis Inteligentes quando a poupança de bateria for ativada</string>
-    <string name="smart_pixels_percent">Percentagem de píxeis a desativar</string>
-    <string name="smart_pixels_shift_title">Proteção contra queimadura do ecrã</string>
-    <string name="smart_pixels_shift_summary">Previne a queimadura em ecrãs OLED ao mover os píxeis regularmente</string>
-    <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">Botão de terminar app</string>
     <string name="notification_guts_kill_app_button_summary">Mostrar um botão para fechar a app ao manter premida a notificação</string>
     <!-- Screen Off animation -->

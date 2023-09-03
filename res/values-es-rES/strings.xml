@@ -588,17 +588,6 @@
     <string name="display_cutout_force_fullscreen_title">Aplicaciones en pantalla completa</string>
     <string name="display_cutout_force_fullscreen_summary">Forzar aplicaciones a ignorar el espacio del notch</string>
     <string name="display_cutout_force_fullscreen_no_apps">Sin aplicaciones</string>
-    <!-- Smart Pixels -->
-    <string name="smart_pixels_warning_text">Píxeles Inteligentes es una característica de ahorro de energía. Según cuántos píxeles decidas desactivar, podría mejorar la vida útil de la batería. En algunos casos puede resultar en zonas táctiles no receptivas</string>
-    <string name="smart_pixels_title">Píxeles Inteligentes</string>
-    <string name="smart_pixels_summary">Ahorra batería apagando píxeles adicionales</string>
-    <string name="smart_pixels_enable_title">Activar Píxeles Inteligentes</string>
-    <string name="smart_pixels_enable_summary">Apaga píxeles para reducir el consumo de energía</string>
-    <string name="smart_pixels_on_power_save_title">Automático en ahorro de batería</string>
-    <string name="smart_pixels_on_power_save_summary">Habilitar Píxeles Inteligentes cuando se active el ahorro de batería</string>
-    <string name="smart_pixels_percent">Porcentaje de píxeles a desactivar</string>
-    <string name="smart_pixels_shift_title">Protección anti-quemado</string>
-    <string name="smart_pixels_shift_summary">Previene el quemado en pantallas OLED alternando píxeles de vez en cuando</string>
     <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">Boton de matar aplicación</string>
     <string name="notification_guts_kill_app_button_summary">Mostrar un botón para detener aplicación en el menú de pulsación larga de la notificación</string>

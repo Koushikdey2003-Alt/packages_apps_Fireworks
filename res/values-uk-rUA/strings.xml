@@ -590,17 +590,6 @@
     <string name="display_cutout_force_fullscreen_title">Повноекранні додатки</string>
     <string name="display_cutout_force_fullscreen_summary">Змушувати додаткам не зважаючи на брову</string>
     <string name="display_cutout_force_fullscreen_no_apps">Додатки відсутні</string>
-    <!-- Smart Pixels -->
-    <string name="smart_pixels_warning_text">Розумні пікселі - засіб економії заряду. В залежності від того, скільки пікселів ви захочете відключити, це може збільшити час роботи батареї.</string>
-    <string name="smart_pixels_title">Розумні пікселі</string>
-    <string name="smart_pixels_summary">Збережіть акумулятор, вимкнувши додаткові пікселі</string>
-    <string name="smart_pixels_enable_title">Увімкнути \"Розумні пікселі\"</string>
-    <string name="smart_pixels_enable_summary">Вимкніть пікселі, щоб зменшити споживання енергії</string>
-    <string name="smart_pixels_on_power_save_title">Автоматичне увімкнення для збереження акумулятора</string>
-    <string name="smart_pixels_on_power_save_summary">Увімкнути смарт-пікселі, коли ввімкнено збереження акумулятора</string>
-    <string name="smart_pixels_percent">Відсоток пікселів для відключення</string>
-    <string name="smart_pixels_shift_title">Захист від вигоряння</string>
-    <string name="smart_pixels_shift_summary">Запобігає вигорянню на OLED-пристроях, часто зрушуючи пікселі</string>
     <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">Примусово зупинити кнопку</string>
     <string name="notification_guts_kill_app_button_summary">Показувати кнопку примусової зупинки при довгому натисненні на сповіщення</string>

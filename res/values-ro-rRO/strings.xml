@@ -589,17 +589,6 @@
     <string name="display_cutout_force_fullscreen_title">Aplicații ecran complet</string>
     <string name="display_cutout_force_fullscreen_summary">Forțează aplicațiile să ignore spațiul pentru decupaj</string>
     <string name="display_cutout_force_fullscreen_no_apps">No apps</string>
-    <!-- Smart Pixels -->
-    <string name="smart_pixels_warning_text">Pixeli inteligenți este o caracteristică de economisire a energiei. În funcție de câți pixeli decideți să dezactivați, ați putea vedea o îmbunătățire în viața bateriei. Rețineți că, în unele cazuri, poate duce la zone fără răspuns pe ecranul tactil</string>
-    <string name="smart_pixels_title">Pixeli inteligenți</string>
-    <string name="smart_pixels_summary">Economisire baterie dezactivând pixeli suplimentari</string>
-    <string name="smart_pixels_enable_title">Activare pixeli inteligenți</string>
-    <string name="smart_pixels_enable_summary">Dezactivare pixeli pentru a reduce consumul de energie</string>
-    <string name="smart_pixels_on_power_save_title">Activare automată la economisirea bateriei</string>
-    <string name="smart_pixels_on_power_save_summary">Activează pixeli inteligenți atunci când economisirea bateriei este activată</string>
-    <string name="smart_pixels_percent">Procentajul de pixeli pentru dezactivare</string>
-    <string name="smart_pixels_shift_title">Protecție Burn-in</string>
-    <string name="smart_pixels_shift_summary">Împiedică deteriorarea pixelilor pe dispozitivele OLED prin deplasarea acestora la intervale frecvente</string>
     <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">Butonul oprire aplicație</string>
     <string name="notification_guts_kill_app_button_summary">Se afișează un buton pentru închiderea aplicației în meniul apăsării lungi pe notificare</string>

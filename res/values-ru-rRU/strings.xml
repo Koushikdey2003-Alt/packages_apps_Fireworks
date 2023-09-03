@@ -590,17 +590,6 @@
     <string name="display_cutout_force_fullscreen_title">Полноэкранные приложения</string>
     <string name="display_cutout_force_fullscreen_summary">Заставить приложения игнорировать вырез</string>
     <string name="display_cutout_force_fullscreen_no_apps">Нет приложений</string>
-    <!-- Smart Pixels -->
-    <string name="smart_pixels_warning_text">Умные пиксели — средство экономии заряда. В зависимости от того, сколько пикселей вы захотите отключить, это может привести к увеличению времени жизни батареи</string>
-    <string name="smart_pixels_title">Умные пиксели</string>
-    <string name="smart_pixels_summary">Экономьте заряд батареи, выключив лишние пиксели</string>
-    <string name="smart_pixels_enable_title">Включить умные пиксели</string>
-    <string name="smart_pixels_enable_summary">Отключает пиксели для уменьшения потребления энергии</string>
-    <string name="smart_pixels_on_power_save_title">Автоматически включать в режиме энергосбережения</string>
-    <string name="smart_pixels_on_power_save_summary">Включить умные пиксели, когда включена экономия заряда</string>
-    <string name="smart_pixels_percent">Процент выключаемых пикселей</string>
-    <string name="smart_pixels_shift_title">Защита от выгорания экрана</string>
-    <string name="smart_pixels_shift_summary">Предотвращает горение на OLED-устройствах путём часто смещения пикселей</string>
     <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">Кнопка принудительного закрытия приложения</string>
     <string name="notification_guts_kill_app_button_summary">Показать кнопку принудительного закрытия приложения при долгом нажатии на уведомление</string>

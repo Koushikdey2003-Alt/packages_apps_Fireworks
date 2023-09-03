@@ -587,17 +587,6 @@
     <string name="display_cutout_force_fullscreen_title">Ứng dụng toàn màn hình</string>
     <string name="display_cutout_force_fullscreen_summary">Buộc các ứng dụng bỏ qua không gian notch</string>
     <string name="display_cutout_force_fullscreen_no_apps">Không có ứng dụng</string>
-    <!-- Smart Pixels -->
-    <string name="smart_pixels_warning_text">Điểm ảnh thông minh là một tính năng tiết kiệm pin. Tùy thuộc vào số điểm ảnh bạn quyết định tắt, bạn có thể thấy thời lượng pin được cải thiện. Lưu ý rằng trong một số trường hợp, nó có thể dẫn đến các khu vực không phản hồi trên màn hình cảm ứng</string>
-    <string name="smart_pixels_title">Điểm ảnh Thông minh</string>
-    <string name="smart_pixels_summary">Tiết kiệm pin bằng cách tắt các điểm ảnh phụ</string>
-    <string name="smart_pixels_enable_title">Bật Điểm ảnh Thông minh</string>
-    <string name="smart_pixels_enable_summary">Tắt các điểm ảnh để giảm tiêu thụ pin</string>
-    <string name="smart_pixels_on_power_save_title">Tự động bật cùng trình tiết kiệm pin</string>
-    <string name="smart_pixels_on_power_save_summary">Bật Điểm ảnh Thông minh khi trình tiết kiệm pin được bật</string>
-    <string name="smart_pixels_percent">Phần trăm điểm ảnh sẽ bị tắt</string>
-    <string name="smart_pixels_shift_title">Ngăn ngừa lưu ảnh</string>
-    <string name="smart_pixels_shift_summary">Ngăn hiện tượng lưu ảnh trên thiết bị OLED bằng cách dịch chuyển điểm ảnh thường xuyên</string>
     <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">Nút tắt ứng dụng</string>
     <string name="notification_guts_kill_app_button_summary">Hiển thị nút tắt ứng dụng trong menu nhấn giữ thông báo</string>
